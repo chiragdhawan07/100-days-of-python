@@ -48,13 +48,12 @@ Each folder inside this repo will look like:
 
 100-days-of-python/
 ├── Day 01 - Band Name Generator/
-│ ├── main.py
-│ └── README.md
+│   ├── main.py
+│   └── README.md
 ├── Day 02 - ...
 ├── Day 03 - ...
 
 ---
-
 
 Every folder will have:
 - ✅ Clean & well-commented code
