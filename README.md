@@ -1,7 +1,7 @@
-# 💯 100 Days of Python
+#  💻 100 Days of Python 🐍🔥
 
 Welcome to my **#100DaysOfPython** challenge!  
-This repository documents my journey of building **100 Python mini-projects** in 100 days — one day at a time.
+In this journey, I'm diving deep into Python — one day, one project at a time — to sharpen my skills, explore real-world applications, and have some coding fun! 🎯
 
 > 🚀 _"Consistency is more important than intensity. Every day adds up."_
 
