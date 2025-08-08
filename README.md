@@ -57,7 +57,7 @@ Each folder inside this repo will look like:
 
 Every folder will have:
 - ✅ Clean & well-commented code
-- 📄 Short description in `README.md`
+- 📄 Short description in `README.md` (optional if needed)
 - 💡 Simple explanation or usage guide
 
 ---
