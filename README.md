@@ -46,12 +46,12 @@ Whether you're a beginner or just exploring, feel free to explore each project a
 
 Each folder inside this repo will look like:
 
-100-days-of-python/
-├── Day 01 - Band Name Generator/
-│   ├── main.py
-│   └── README.md
-├── Day 02 - ...
-├── Day 03 - ...
+- 100-days-of-python/
+   - ├── Day 01 - Band Name Generator/
+   - │   ├── main.py
+   - │   └── README.md
+   - ├── Day 02 - ...
+   - ├── Day 03 - ...
 
 ---
 
