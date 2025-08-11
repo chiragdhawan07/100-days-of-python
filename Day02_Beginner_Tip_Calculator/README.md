@@ -1,4 +1,4 @@
-# 💰 Day 2 – Tip Calculator (100 Days of Python)
+# 💰 Day 2 – Tip Calculator 
 
 A beginner-friendly Python program that calculates how much each person should pay when splitting a bill, including a tip.
 
