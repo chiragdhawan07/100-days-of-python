@@ -47,8 +47,8 @@ Whether you're a beginner or just exploring, feel free to explore each project a
 Each folder inside this repo will look like:
 
 - 100-days-of-python/
-   - ├── Day 01 - Band Name Generator/
-   - │   ├── main.py
+   - ├── Day01_Beginner_Band_Name_Generator/
+   - │   ├── band_name_generator.py
    - │   └── README.md
    - ├── Day 02 - ...
    - ├── Day 03 - ...
