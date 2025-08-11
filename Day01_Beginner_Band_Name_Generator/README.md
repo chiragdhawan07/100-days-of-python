@@ -16,3 +16,6 @@ A simple Python program that generates a fun band name by combining the name of 
 - Getting user input with `input()`
 - Storing values in variables
 - String concatenation
+
+## 📅 Challenge
+This is **Day 2** of my [100 Days of Python Challenge](#).
