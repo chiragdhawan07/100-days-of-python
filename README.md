@@ -23,7 +23,7 @@ Whether you're a beginner or just exploring, feel free to explore each project a
 | Day  | Project               | Status        |
 |------|-----------------------|---------------|
 | 01   | Band Name Generator   | ✅ Done        |
-| 02   | Coming Soon...        | 🛠️ In Progress |
+| 02   | Tip Calculator        | ✅ Done        |
 | 03   | Coming Soon...        | ⏳             |
 | ...  | ...                   | ⏳             |
 | 100  | Final Project         | ⏳             |
