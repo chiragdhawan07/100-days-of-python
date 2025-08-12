@@ -18,20 +18,6 @@ Whether you're a beginner or just exploring, feel free to explore each project a
 
 ---
 
-## ✅ Progress Tracker
-
-| Day  | Project               | Status        |
-|------|-----------------------|---------------|
-| 01   | Band Name Generator   | ✅ Done        |
-| 02   | Tip Calculator        | ✅ Done        |
-| 03   | Coming Soon...        | ⏳             |
-| ...  | ...                   | ⏳             |
-| 100  | Final Project         | ⏳             |
-
-📝 I’ll update this table daily as I complete each project.
-
----
-
 ## 🎯 Why I'm Doing This
 
 - 📚 **To sharpen Python skills** for future AI/ML and automation development  
