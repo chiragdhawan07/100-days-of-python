@@ -19,5 +19,4 @@ A secure password generator that creates strong, randomized passwords using lett
 - User input handling
 
 ## 📅 Challenge
-Day 5 of the **100 Days of Python** challenge.  
-🔗 [View Challenge Repository](https://github.com/chiragdhawan/100DaysOfPython)
+This is **Day 5** of my [100 Days of Python Challenge](#).
