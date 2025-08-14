@@ -22,4 +22,5 @@ A beginner-friendly Python game that lets you play Rock, Paper, Scissors against
 - ASCII Art Formatting
 
 ## 📅 Challenge
-This is **Day 4** of my [100 Days of Python Challenge](#).
+Day 4 of the **100 Days of Python** challenge.
+🔗 [View Challenge Repository](https://github.com/chiragdhawan/100-days-of-python)
