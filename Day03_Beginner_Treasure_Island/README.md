@@ -15,4 +15,4 @@ A beginner-friendly Python text adventure game where the player makes choices to
 - User Input
 
 ## 📅 Challenge
-This is **Day 2** of my [100 Days of Python Challenge](#).
+This is **Day 3** of my [100 Days of Python Challenge](#).
