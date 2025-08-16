@@ -1,4 +1,4 @@
-# Day 6 – Reeborg’s World: Hurdle 3 (Solved)
+# Day 6 – Reeborg’s World: Hurdle 2 (Solved)
 
 def turn_right():
     turn_left()
@@ -6,6 +6,7 @@ def turn_right():
     turn_left()
 
 def jump():
+    move()
     turn_left()
     move()
     turn_right()
@@ -14,9 +15,6 @@ def jump():
     move()
     turn_left()
 
-# Keep moving until Reeborg reaches the goal
+# Keep jumping until Reeborg reaches the goal
 while not at_goal():
-    if wall_in_front():   # jump only when a wall is in front
-        jump()
-    else:
-        move()
+    jump()
