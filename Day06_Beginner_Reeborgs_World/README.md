@@ -41,4 +41,4 @@ Today I solved multiple challenges in **Reeborg’s World**, including Hurdle pr
 ---
 
 ## 📅 Challenge
-This is **Day 5** of my [100 Days of Python Challenge](#).
+This is **Day 6** of my [100 Days of Python Challenge](#).
