@@ -11,7 +11,6 @@ print(logo)
 
 # Choose a random word from the word list
 chosen_word = random.choice(word_list)
-print(chosen_word)  # (For testing/debugging, remove in final game)
 
 # Create placeholder for the hidden word (e.g., "____")
 placeholder = ""
