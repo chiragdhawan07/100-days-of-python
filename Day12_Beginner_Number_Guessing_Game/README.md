@@ -5,7 +5,7 @@ A fun Python game where you try to guess the number between **1 and 100** within
 ---
 
 ## 🚀 How It Works  
-1. The computer picks a random number between **1 and 100**.  
+1. The computer picks a random number between **1 and 100**
 2. You choose a difficulty:  
    - **Easy** → 10 attempts  
    - **Hard** → 5 attempts  
@@ -18,7 +18,7 @@ A fun Python game where you try to guess the number between **1 and 100** within
 - Functions and return values  
 - While loops and conditional statements  
 - Error handling (`try-except`)  
-- Constants for cleaner code  
+- Constants for cleaner code 
 - User input validation  
 
 ---
