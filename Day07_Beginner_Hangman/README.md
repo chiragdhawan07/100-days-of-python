@@ -23,4 +23,5 @@ A fun command-line **Hangman game** where you guess letters to reveal the hidden
 ---
 
 ## 📅 Challenge  
-This is **Day 7** of my [100 Days of Python Challenge](#).  
+Day 07 of **#100DaysOfPython** 🐍  
+[Link to Main Repository](https://github.com/chiragdhawan07/100-days-of-python)
