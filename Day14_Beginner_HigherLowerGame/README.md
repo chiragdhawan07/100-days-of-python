@@ -22,4 +22,5 @@ A fun game where you guess which celebrity/account has more Instagram followers.
 ---
 
 ## 📅 Challenge
-This is **Day 14** of my [100 Days of Python Challenge](https://github.com/chiragdhawan07/100-days-of-python).  
+Day 13 of **#100DaysOfPython** 🐍  
+[Link to Main Repository](https://github.com/chiragdhawan07/100-days-of-python) 
