@@ -1,7 +1,7 @@
 import random
 import os
 from game_data import data
-from artday14 import logo, vs
+from art import logo, vs
 
 # Clear screen function
 def clear():
