@@ -20,8 +20,15 @@ snake movement, food spawning, scoring, collisions, and game over screen.
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="screenshot1.png" alt="Snake Game Start" width="45%" />
-  <img src="screenshot2.png" alt="Snake Game Over" width="45%" />
+  <img src="screenshot1.png" alt="Snake Game Start" width="50%" />
+  <br>
+  <em>▶️ Game Start</em>
+</p>
+
+<p align="center">
+  <img src="screenshot2.png" alt="Snake Game Over" width="50%" />
+  <br>
+  <em>💀 Game Over with Score</em>
 </p>
 
 ---
