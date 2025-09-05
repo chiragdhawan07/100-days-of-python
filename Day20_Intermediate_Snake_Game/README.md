@@ -6,7 +6,7 @@ The full game (with food, collisions, and score) will be completed in the next s
 
 ## 🚀 How It Works
 1. A snake is created from three square segments.
-2. The snake moves forward automatically in a smooth loop.
+2. The snake moves forward automatically in a smooth loop
 3. Arrow keys (Up, Down, Left, Right) let the player control its direction.
 4. At this stage, only movement is implemented — the rest will be added tomorrow.
 
