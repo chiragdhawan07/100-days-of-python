@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Read the CSV file
-data = pd.read_csv("NATO-alphabet-start/nato_phonetic_alphabet.csv")
+data = pd.read_csv("nato_phonetic_alphabet.csv")
 
 # Create dictionary: letter → code
 nato_dict = {row.letter: row.code for (index, row) in data.iterrows()}
