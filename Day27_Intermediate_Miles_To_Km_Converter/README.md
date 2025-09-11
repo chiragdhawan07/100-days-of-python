@@ -29,7 +29,4 @@ Here’s how the app looks:
 ---
 
 ## 📅 Challenge
-This project is part of my **#100DaysOfPython** journey. 
-Day 27 – *Miles to Kilometer Converter*  
-
-👉 [Check out the full repo here](https://github.com/chiragdhawan07/100-days-of-python)
+This is **Day 26** of my [#100DaysOfPython](https://github.com/chiragdhawan07/100-days-of-python) challenge.
