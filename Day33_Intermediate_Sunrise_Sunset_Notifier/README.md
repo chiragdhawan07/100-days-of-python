@@ -33,32 +33,6 @@ It then converts the times from **UTC to IST**, displays them in the terminal, a
 
 ---
 
-## ⚙️ Setup & Usage  
-
-1. **Clone this repo**  
-```bash
-git clone https://github.com/your-username/day33-sunrise-sunset-email.git
-cd day33-sunrise-sunset-email
-```
-2. **Install dependencies**
-```bash
-pip install requests
-```
-3. **Fill in your details inside `main.py`:**
-```bash
-MY_EMAIL = "your_email@gmail.com"
-MY_PASSWORD = "your_app_password"   # create from Google Account > Security > App Passwords
-TO_EMAIL = "receiver_email@gmail.com"
-```
-⚠️ Important: Use a Gmail App Password instead of your normal password.
-4. **Run the script**
-```bash
-python main.py
-```
-5. **Check your terminal and inbox 📥**
-
----
-
 ## 📅 Challenge  
 This project is part of my **100 Days of Python** challenge 🎯  
 
