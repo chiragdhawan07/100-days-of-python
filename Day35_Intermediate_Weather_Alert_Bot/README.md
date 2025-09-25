@@ -19,10 +19,10 @@ A Python automation project that checks the weather forecast using **OpenWeather
 
 ## 📸 Screenshots
 ### ✅ WhatsApp Alert  
-![WhatsApp Alert](screenshots/whatsapp_alert.png)
+<img src="screenshots/whatsapp_alert.png" alt="WhatsApp Alert" width="300">
 
 ### ✅ SMS Alert  
-![SMS Alert](screenshots/sms_alert.png)
+<img src="screenshots/sms_alert.png" alt="SMS Alert" width="300">
 
 ## 📅 Challenge
 This project is part of my **100 Days of Python challenge** 🎯  
