@@ -30,7 +30,7 @@ Get instant notifications via **WhatsApp** and **SMS** when flight prices drop b
 ---
 
 ## 📅 Challenge
-This project is part of my 100 Days of Python challenge 🎯  
+This project is part of my 100 Days of Python challenge🎯  
 
 👉 Day 39 of 100  
 🔗 [Main Challenge Repo](https://github.com/YOUR-USERNAME/100DaysOfPython)
