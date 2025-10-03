@@ -18,7 +18,7 @@ Each color word is styled to match its meaning, with images for visual learning.
 - Organizing CSS in an external file for cleaner code
 
 ## 📸 Output
-<img src="./assets/output.png" alt="Spanish Colors Preview" width="300px">
+<img src="./assets/images/output.png" alt="Spanish Colors Preview" width="300px">
 
 ## 📅 Challenge
 Day 42 of the [100 Days of Python Challenge](https://github.com/chiragdhawan07/100-days-of-python)
