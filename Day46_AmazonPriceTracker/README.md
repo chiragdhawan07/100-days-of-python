@@ -1,4 +1,4 @@
-# 🛒 Day 47 – Amazon Price Tracker
+# 🛒 Day 46 – Amazon Price Tracker
 
 A Python script that tracks the price of a product on Amazon and automatically sends you an email alert when the price drops below your target!  
 
@@ -8,7 +8,7 @@ A Python script that tracks the price of a product on Amazon and automatically s
 
 | 🖥️ Terminal Output | 📧 Email Alert |
 |:------------------:|:--------------:|
-| <img src="assets/images/terminal_output.png" width="420"/> | <img src="assets/images/email_output.png" width="420"/> |
+| <img src="assets/terminal_output.png" width="420"/> | <img src="assets/email_output.png" width="420"/> |
 
 ---
 
