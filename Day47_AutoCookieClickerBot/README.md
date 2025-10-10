@@ -15,7 +15,7 @@ An automated bot that plays the Cookie Clicker game using Selenium — it keeps 
 
 ## 🖼 Screenshots
 ### 🎮 Bot in Action
-<img src="assets/images/cookie_bot_working.png" width="600">
+<img src="assets/images/output.png" width="600">
 
 ### 💻 Terminal Output
 <img src="assets/images/terminal_output.png" width="600">
