@@ -17,7 +17,7 @@ An automation bot that logs into Instagram, visits a target account, and extract
 ## 🖼 Screenshots
 | Login Page | Followers List | Terminal Output |
 |-------------|----------------|----------------|
-| ![Login](assets/login_page.png) | ![Followers](assets/followers_list.png) | ![Result](assets/result_output.png) |
+| ![Login](assets/instagram_login.png) | ![Followers](assets/following_output.png) | ![Result](assets/terminal_output.png) |
 
 ---
 
