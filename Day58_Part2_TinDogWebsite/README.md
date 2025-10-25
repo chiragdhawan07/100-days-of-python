@@ -14,11 +14,11 @@ Completed the remaining sections of the TinDog Website — a fun, responsive sit
 
 ## 🖼️ Output Screenshots
 <p align="center">
-  <img src="output1.png" width="800">
+  <img src="images/output1.png" width="600">
   <br><br>
-  <img src="output2.png" width="800">
+  <img src="images/output2.png" width="600">
   <br><br>
-  <img src="output3.png" width="800">
+  <img src="images/output3.png" width="600">
 </p>
 
 ---
