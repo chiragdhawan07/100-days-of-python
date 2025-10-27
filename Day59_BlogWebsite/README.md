@@ -33,7 +33,7 @@ This project demonstrates backend templating with Jinja, clean routing, and mode
   <img src="screenshots/homepage.png" alt="Home Page" width="600">
 </p>
 
-### 📰 Post Page  
+### 📰 Post Page 
 <p align="center">
   <img src="screenshots/post.png" alt="Post Page" width="600">
 </p>
