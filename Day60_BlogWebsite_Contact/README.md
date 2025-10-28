@@ -16,7 +16,7 @@ Enhanced my Flask Blog Website by adding a fully functional **Contact Me** form 
 ## 🖼 Screenshots
 | Contact Form | Message Sent | Email Received |
 |:-------------:|:------------:|:---------------:|
-| <img src="screenshots/form.png" width="280"> | <img src="screenshots/sent.png" width="280"> | <img src="screenshots/mail.png" width="280"> |
+| <img src="screenshots/form.png" width="400"> | <img src="screenshots/sent.png" width="400"> | <img src="screenshots/mail.png" width="400"> |
 
 ---
 
