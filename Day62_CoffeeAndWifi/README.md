@@ -1,33 +1,46 @@
 # ☕ Day 62 – Coffee & Wifi 💻  
-A sleek Flask web app to explore and rate cafés based on coffee quality, Wi-Fi speed, and power socket availability. Perfect for remote workers and students hunting the best work-friendly spots!
+A stylish Flask web app to explore and rate cafés based on coffee quality, Wi-Fi strength, and power socket availability.  
+Ideal for freelancers, students, or anyone who loves working with a good cup of coffee!
 
 ---
 
 ## 🚀 How It Works  
-1. Visit the homepage and click **“Show Me!”** to explore nearby cafés.  
-2. View café details like open/close timings, Wi-Fi strength, and power socket ratings.  
-3. Add your own café using the **Add Café** form — complete with validation and emoji ratings.  
-4. All data is stored in a CSV file and displayed dynamically through Flask templates.
+1. Open the app to explore a curated list of cafés with real ratings.  
+2. View café details including **Wi-Fi strength**, **coffee quality**, and **power socket access**.  
+3. Use the **Add Café** form to contribute new spots easily.  
+4. All entries are stored in a simple **CSV file** and displayed dynamically on the cafés page.  
 
 ---
 
 ## 🛠 Skills Used  
-- **Flask** for backend routing and templates  
-- **Flask-WTF** for form creation and validation  
-- **Bootstrap 5** integration for styling  
-- **CSV** for lightweight data storage  
-- **Jinja2** for rendering dynamic tables  
+- **Flask** – for backend routing & templates  
+- **Flask-WTF** – for forms and validation  
+- **Bootstrap 5** – for modern UI styling  
+- **CSV** – for lightweight data storage  
+- **Jinja2** – for dynamic HTML rendering  
 
 ---
 
 ## 🖼 Screenshots  
 
-| 🏠 Home Page | ➕ Add Café | ☕ All Cafés |
-|---------------|-------------|--------------|
-| <img src="screenshots/home.png" width="320"/> | <img src="screenshots/add_cafe.png" width="320"/> | <img src="screenshots/all_cafes.png" width="320"/> |
+### ☕ All Cafés  
+Explore the full list of cafés with details on timings, Wi-Fi, power sockets, and coffee quality.  
+<img src="screenshots/all_cafes.png" width="360"/>
+
+---
+
+### ➕ Add a New Café  
+Submit your favorite café to the database with emoji ratings for each category.  
+<img src="screenshots/add_cafe.png" width="360"/>
+
+---
+
+### 🏠 Home Page  
+The entry point of the app with a clean, minimal landing screen.  
+<img src="screenshots/home.png" width="360"/>
 
 ---
 
 ## 📅 Challenge  
 Day 62 of the [#100DaysOfPython](https://github.com/chiragdhawan07/100-days-of-python) challenge 🚀  
-Explore all my projects in this series on GitHub!
+Explore all my daily Python projects on GitHub!
