@@ -1,0 +1,22 @@
+{% extends 'base.html' %}
+{% block title %}Coffee and Wifi{% endblock %}
+
+{% block content %}
+<div class="jumbotron text-center">
+  <div class="container">
+    <h1 class="display-4">☕️ Coffee & Wifi 💻</h1>
+    <p class="lead">Find your next favorite café to sip, surf, and stay inspired.</p>
+    <hr class="my-4" />
+    <p>
+      You’re in the right place, explore cafés rated by Wi-Fi speed, power sockets, and coffee quality.
+    </p>
+    <a
+      class="btn btn-warning btn-lg"
+      href="{{ url_for('cafes') }}"
+      role="button"
+      >Show Me!</a
+    >
+  </div>
+</div>
+
+{% endblock %}
