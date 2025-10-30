@@ -31,4 +31,4 @@ Enhanced my Flask Blog Website by adding a fully functional **Contact Me** form 
 
 ## 📅 Challenge
 This is **Day 60** of my [#100DaysOfPython Challenge](https://github.com/chiragdhawan07/100-days-of-python).  
-Continuing from **Day 59 Blog Website**, this update adds real-world functionality with email integration.
+Continuing from **Day 59 Blog Website**, this update adds real-world functionality with email integration
