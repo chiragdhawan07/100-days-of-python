@@ -23,6 +23,12 @@ Ideal for freelancers, students, or anyone who loves working with a good cup of 
 
 ## 🖼 Screenshots  
 
+### 🏠 Home Page  
+The entry point of the app with a clean, minimal landing screen.  
+<img src="screenshots/home.png" width="360"/>
+
+---
+
 ### ☕ All Cafés  
 Explore the full list of cafés with details on timings, Wi-Fi, power sockets, and coffee quality.  
 <img src="screenshots/all_cafes.png" width="360"/>
@@ -32,12 +38,6 @@ Explore the full list of cafés with details on timings, Wi-Fi, power sockets, a
 ### ➕ Add a New Café  
 Submit your favorite café to the database with emoji ratings for each category.  
 <img src="screenshots/add_cafe.png" width="360"/>
-
----
-
-### 🏠 Home Page  
-The entry point of the app with a clean, minimal landing screen.  
-<img src="screenshots/home.png" width="360"/>
 
 ---
 
