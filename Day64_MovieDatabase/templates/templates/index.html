@@ -1,0 +1,51 @@
+{% extends 'base.html' %}
+
+{% block title %}My Top 10 Movies{% endblock %}
+
+{% block content %}
+<div class="container text-center mt-4">
+  <h1 class="heading mb-2">My Top 10 Movies</h1>
+  <p class="description text-muted">These are my all-time favourite movies.</p>
+
+  {% if movies %}
+    {% for movie in movies %}
+      <div class="card movie-card mx-auto my-4">
+        <div class="front" style="background-image: url('{{ movie.img_url }}');">
+          <p class="large">{{ movie.ranking }}</p>
+        </div>
+
+        <div class="back p-3">
+          <h3 class="title">
+            {{ movie.title }} <span class="release_date text-muted">({{ movie.year }})</span>
+          </h3>
+
+          <div class="rating mb-2">
+            {% if movie.rating %}
+              <span class="badge bg-warning text-dark">{{ movie.rating }} ⭐</span>
+            {% else %}
+              <span class="badge bg-secondary">No Rating</span>
+            {% endif %}
+          </div>
+
+          {% if movie.review %}
+            <p class="review fst-italic">"{{ movie.review }}"</p>
+          {% endif %}
+
+          <p class="overview text-muted small">{{ movie.description }}</p>
+
+          <div class="d-flex justify-content-center gap-2 mt-3">
+            <a href="{{ url_for('rate_movie', id=movie.id) }}" class="btn btn-sm btn-outline-primary">Update</a>
+            <a href="{{ url_for('delete_movie', id=movie.id) }}" class="btn btn-sm btn-outline-danger">Delete</a>
+          </div>
+        </div>
+      </div>
+    {% endfor %}
+  {% else %}
+    <p class="text-muted mt-5">No movies added yet. Click below to add your first one!</p>
+  {% endif %}
+</div>
+
+<div class="container text-center mt-4 mb-5">
+  <a href="{{ url_for('add_movie') }}" class="btn btn-lg btn-success">+ Add Movie</a>
+</div>
+{% endblock %}
