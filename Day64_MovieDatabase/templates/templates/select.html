@@ -1,0 +1,21 @@
+{% extends 'base.html' %}
+
+{% block title %}Select Movie{% endblock %}
+
+{% block content %}
+<div class="container text-center mt-5">
+    <h1 class="heading mb-3">Select a Movie</h1>
+    <p class="text-muted mb-4">We found multiple movies matching your search — please choose one below:</p>
+
+    <div class="list-group mx-auto" style="max-width: 500px;">
+        {% for movie in options %}
+        <a href="{{ url_for('find_movie', id=movie.id) }}" class="list-group-item list-group-item-action">
+            <strong>{{ movie.title }}</strong>
+            {% if movie.release_date %}
+                <span class="text-muted">({{ movie.release_date[:4] }})</span>
+            {% endif %}
+        </a>
+        {% endfor %}
+    </div>
+</div>
+{% endblock %}
