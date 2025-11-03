@@ -28,12 +28,12 @@ A Flask web app to manage your favorite movies — add, edit ratings & reviews, 
 ## 🖼 Screenshots  
 
 <p align="center">
-  <img src="screenshots/hompagee.png" width="600" alt="Home Page"><br>
+  <img src="screenshots/homepage.png" width="600" alt="Home Page"><br>
   <em>🏠 Home Page – Movie Rankings</em>
 </p>
 
 <p align="center">
-  <img src="screenshots/addmovie.png" width="600" alt="Add Movie"><br>
+  <img src="screenshots/addmovvie.png" width="600" alt="Add Movie"><br>
   <em>➕ Add Movie Page</em>
 </p>
 
