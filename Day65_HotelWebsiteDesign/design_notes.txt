@@ -1,0 +1,50 @@
+🖌️ DESIGN NOTES – Day 65 (Hotel Front Page Design)
+
+🎯 Objective:
+Create a modern-elegant landing page for a hotel website, using a warm cream-and-browns palette to convey comfort, luxury and approachability.
+
+---
+
+🎨 Color Palette:
+• #F7F3EE – Light Cream (background, airy & inviting)  
+• #D2C3B5 – Light Brown (secondary background, warmth)  
+• #5D4231 – Dark Brown (text and accent, depth & sophistication)  
+• #CCA678 – Gold/Accent Brown (calls-to-action, highlights)
+
+These hues were chosen to reflect luxury without harsh contrast — aiming for a cozy premium feel.
+
+---
+
+🔠 Typography:
+• Heading Font: Playfair Display (serif, elegant, upscale feel)  
+• Body Font: Montserrat (sans-serif, clean, readable)  
+These typefaces balance classic luxury (in headings) with modern legibility (in body text).
+
+---
+
+📐 Layout Structure:
+1. Hero Section — Full-width image with hotel name + tagline + “Book Now” button  
+2. About Section — Two-column layout: image on left, text on right describing the hotel’s story  
+3. Rooms/Services Section — Card layout showing various room types with images and brief descriptions  
+4. Gallery Section — Grid of interior & exterior photos highlighting ambiance and amenities  
+5. Contact / CTA Section — Background in light cream, contact form or details, footer with links
+
+---
+
+✨ Design Highlights:
+- Soft, warm background tones for a relaxed yet premium atmosphere  
+- Consistent spacing and margins to maintain a sense of calm luxury  
+- Use of dark brown for text ensures readability and elegance  
+- Accent color (gold/brown) used sparingly for buttons and important tags to draw attention
+
+---
+
+💭 Future Conversion:
+- This layout is already modular — each section is discrete and can translate into HTML/CSS blocks  
+- Use responsive grid for cards and gallery for mobile view  
+- Animation suggestions: subtle fade-in for sections, hover effect on room cards
+
+---
+
+🧑‍🎨 Tool Used:
+Canva – designed page layout, color swatches and typography selection
