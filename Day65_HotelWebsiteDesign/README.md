@@ -14,15 +14,15 @@ This concept blends simplicity, luxury, and visual harmony — ideal for a premi
 
 | **Home Page** | **About Page** |
 |:--------------:|:---------------:|
-| <img src="hotel_front_page_1.png" width="420"> | <img src="hotel_front_page_2.png" width="420"> |
+| <img src="1_Homepage.png" width="420"> | <img src="2_About.png" width="420"> |
 
 | **Rooms Page** | **Gallery Page** |
 |:---------------:|:----------------:|
-| <img src="hotel_front_page_3.png" width="420"> | <img src="hotel_front_page_4.png" width="420"> |
+| <img src="3_Rooms.png" width="420"> | <img src="4_Gallery.png" width="420"> |
 
 | **Contact Page** |
 |:----------------:|
-| <img src="hotel_front_page_5.png" width="420"> |
+| <img src="5_Contact.png" width="420"> |
 
 > 🖼️ *Each screenshot represents one page from the full 5-page hotel website concept.*
 
