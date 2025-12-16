@@ -1,0 +1,87 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600&display=swap");
+
+/* Global reset */
+* {
+    box-sizing: border-box;
+}
+
+html,
+body {
+    height: 100%;
+    margin: 0;
+}
+
+/* Background + base font */
+body {
+    font-family: "Open Sans", sans-serif;
+    background: -webkit-radial-gradient(
+            0% 100%,
+            ellipse cover,
+            rgba(104, 128, 138, 0.4) 10%,
+            rgba(138, 114, 76, 0) 40%
+        ),
+        linear-gradient(
+            to bottom,
+            rgba(57, 173, 219, 0.25) 0%,
+            rgba(42, 60, 87, 0.4) 100%
+        ),
+        linear-gradient(135deg, #670d10 0%, #092756 100%);
+    color: #ffffff;
+}
+
+/* Links */
+a {
+    text-decoration: none;
+}
+
+/* Centered auth card */
+.box {
+    background: rgba(0, 0, 0, 0.45);
+    border-radius: 10px;
+    padding: 2rem 2.5rem;
+    box-shadow: 0 10px 35px rgba(0, 0, 0, 0.4);
+}
+
+.box h1 {
+    color: #ffffff;
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    letter-spacing: 1px;
+    text-align: center;
+    margin-bottom: 1.5rem;
+}
+
+.box p {
+    color: #ffb3a7;
+    text-align: center;
+}
+
+/* Inputs (login/register forms) */
+input.form-control {
+    background: rgba(0, 0, 0, 0.3);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    color: #ffffff;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.3);
+    box-shadow: inset 0 -5px 45px rgba(100, 100, 100, 0.2),
+        0 1px 1px rgba(255, 255, 255, 0.2);
+    transition: box-shadow 0.5s ease;
+}
+
+input.form-control::placeholder {
+    color: #dddddd;
+}
+
+input.form-control:focus {
+    box-shadow: inset 0 -5px 45px rgba(100, 100, 100, 0.4),
+        0 1px 1px rgba(255, 255, 255, 0.2);
+    border-color: #4f7aff;
+}
+
+/* Flash messages spacing */
+.alert {
+    margin-bottom: 1rem;
+}
+
+/* Secrets page text */
+.secrets-text {
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
