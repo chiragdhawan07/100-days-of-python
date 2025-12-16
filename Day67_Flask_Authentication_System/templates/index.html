@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+{% block content %}
+
+<div class="d-flex justify-content-center align-items-center" style="min-height: 70vh;">
+  <div class="box text-center">
+    <h1 class="mb-4">Flask Authentication</h1>
+
+    {% if not logged_in %}
+      <a href="{{ url_for('login') }}" class="btn btn-primary btn-lg w-100 mb-3">
+        Login
+      </a>
+      <a href="{{ url_for('register') }}" class="btn btn-secondary btn-lg w-100">
+        Register
+      </a>
+    {% else %}
+      <p class="text-muted mb-3">(You are already logged in)</p>
+      <a href="{{ url_for('secrets') }}" class="btn btn-success btn-lg">
+        Go to Secrets Page
+      </a>
+    {% endif %}
+  </div>
+</div>
+
+{% endblock %}
