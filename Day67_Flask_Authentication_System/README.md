@@ -30,16 +30,16 @@ A secure Flask web application that implements **user authentication** with logi
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-<img src="screenshots/home.png" width="300"/>
+<img src="screenshots/home.png" width="500"/>
 
 ### 📝 Register Page
-<img src="screenshots/register.png" width="300"/>
+<img src="screenshots/register.png" width="500"/>
 
 ### 🔑 Login Page
-<img src="screenshots/login.png" width="300"/>
+<img src="screenshots/login.png" width="500"/>
 
 ### 🔒 Secrets Page (Protected)
-<img src="screenshots/secrets.png" width="300"/>
+<img src="screenshots/secrets.png" width="500"/>
 
 ---
 
