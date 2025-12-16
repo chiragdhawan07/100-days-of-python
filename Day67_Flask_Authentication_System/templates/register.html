@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+{% block content %}
+
+<div class="d-flex justify-content-center align-items-center" style="min-height: 75vh;">
+    <div class="box text-center" style="width: 100%; max-width: 400px;">
+
+        <h1 class="mb-4">Register</h1>
+
+        <form action="{{ url_for('register') }}" method="post">
+
+            <div class="mb-3">
+                <input type="text" name="name" class="form-control" placeholder="Name" required />
+            </div>
+
+            <div class="mb-3">
+                <input type="email" name="email" class="form-control" placeholder="Email" required />
+            </div>
+
+            <div class="mb-3">
+                <input type="password" name="password" class="form-control" placeholder="Password" required />
+            </div>
+
+            <button type="submit" class="btn btn-success btn-lg w-100">Sign me up</button>
+        </form>
+    </div>
+</div>
+
+{% endblock %}
