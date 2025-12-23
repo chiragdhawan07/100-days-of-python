@@ -101,75 +101,47 @@ Screenshots are placed directly under each feature to clearly demonstrate functi
 
 ---
 
-## 📁 Project Structure
+## ⚙️ Installation & Setup
 
-Flask-Blog-Website-v3/
-│
-├── main.py
-├── forms.py
-├── requirements.txt
-├── .gitignore
-│
-├── instance/
-│   └── posts.db
-│
-├── static/
-│   ├── css/
-│   ├── js/
-│   └── assets/
-│       └── img/
-│
-├── templates/
-│   ├── index.html
-│   ├── post.html
-│   ├── register.html
-│   ├── login.html
-│   ├── make-post.html
-│   ├── about.html
-│   ├── contact.html
-│   ├── header.html
-│   └── footer.html
-│
-└── screenshots/
-    ├── home.png
-    ├── register.png
-    ├── login.png
-    ├── home-admin.png
-    ├── create-post.png
-    ├── post-detail.png
-    ├── contact-form.png
-    └── contact-success.png
-
----
-
-## ⚙️ Setup Instructions
-
-### Clone Repository
-git clone https://github.com/your-username/Flask-Blog-Website-v3.git  
+# Clone the repository
+```bash
+git clone https://github.com/your-username/Flask-Blog-Website-v3.git
 cd Flask-Blog-Website-v3
+```
 
-### Create Virtual Environment
-python -m venv .venv  
-source .venv/bin/activate  (Mac/Linux)  
-.venv\Scripts\activate     (Windows)
+# Create virtual environment
+```bash
+python -m venv .venv
 
-### Install Dependencies
+# Activate virtual environment (Windows)
+```bash
+.venv\Scripts\activate
+```
+
+# Activate virtual environment (Mac/Linux)
+# source .venv/bin/activate
+
+# Install dependencies
+```bash
 pip install -r requirements.txt
+```
 
 ---
 
 ## 🔐 Environment Variables
 
 Create a `.env` file (DO NOT upload to GitHub):
-
+```bash
 OWN_EMAIL=your_email@gmail.com  
 OWN_PASSWORD=your_app_password
+```
 
 ---
 
 ## ▶️ Run Application
-
+```bash
 python main.py
+```
 
 Open browser:
 http://127.0.0.1:5001
