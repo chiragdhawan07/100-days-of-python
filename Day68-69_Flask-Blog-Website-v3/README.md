@@ -29,18 +29,6 @@ Screenshots are placed directly under each feature to clearly demonstrate functi
 
 ---
 
-## 📝 Blog System
-
-- Create, edit, and delete blog posts
-- Rich text editor using **CKEditor**
-- Blog posts stored in **SQLite database**
-- Dynamic rendering using Jinja templates
-
-### 📸 Blog Post Page
-![Blog Post](screenshots/post-detail.png)
-
----
-
 ## 💬 Comment System
 
 - Logged-in users can comment on posts
