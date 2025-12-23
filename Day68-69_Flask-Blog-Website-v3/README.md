@@ -113,10 +113,6 @@ cd 100-days-of-python/Day68-69_Flask-Blog-Website-v3
 ```bash
 python -m venv .venv
 ```
-# Activate virtual environment (Windows)
-```bash
-.venv\Scripts\activate
-```
 
 # Activate virtual environment 
 (Mac/Linux)
