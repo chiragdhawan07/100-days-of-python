@@ -39,9 +39,6 @@ Screenshots are placed directly under each feature to clearly demonstrate functi
 ### 📸 Rich Text Editor
 ![Create Post](screenshots/create-post.png)
 
-### 📸 Blog Post Page
-![Blog Post](screenshots/post-detail.png)
-
 ---
 
 ## 💬 Comment System
