@@ -105,21 +105,29 @@ Screenshots are placed directly under each feature to clearly demonstrate functi
 
 # Clone the repository
 ```bash
-git clone https://github.com/your-username/Flask-Blog-Website-v3.git
-cd Flask-Blog-Website-v3
+git clone https://github.com/chiragdhawan07/100-days-of-python.git
+cd 100-days-of-python/Day68-69_Flask-Blog-Website-v3
 ```
 
 # Create virtual environment
 ```bash
 python -m venv .venv
-
+```
 # Activate virtual environment (Windows)
 ```bash
 .venv\Scripts\activate
 ```
 
-# Activate virtual environment (Mac/Linux)
-# source .venv/bin/activate
+# Activate virtual environment 
+(Mac/Linux)
+```bash
+source .venv/bin/activate
+```
+
+(Windows)
+```bash
+.venv\Scripts\activate
+```
 
 # Install dependencies
 ```bash
