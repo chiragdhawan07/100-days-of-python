@@ -36,8 +36,8 @@ Screenshots are placed directly under each feature to clearly demonstrate functi
 - Blog posts stored in **SQLite database**
 - Dynamic rendering using Jinja templates
 
-### 📸 Rich Text Editor
-![Create Post](screenshots/create-post.png)
+### 📸 Blog Post Page
+![Blog Post](screenshots/post-detail.png)
 
 ---
 
